@@ -1,4 +1,4 @@
-# Challenge_12
+# Credit Risk Analysis
 ## Please read the report for detailed description on the analysis procedure
 
 ## Installation Guide
